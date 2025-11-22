@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Brian+Rono;Software+Developer+in+Training;Python+%7C+Networking+%7C+GitHub&center=true&width=500&height=45)](https://git.io/typing-svg)
-
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Hi+I'm+Brian+Rono;School+of+Computing+Student;Software+Developer+Learner;Networking+%7C+Python+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
