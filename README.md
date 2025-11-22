@@ -11,18 +11,6 @@ I’m currently learning **software development** and building my foundation in 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianrono&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianrono&theme=tokyonight" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianrono&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
 
 ## 📬 Contact Me
 
